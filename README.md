@@ -1,5 +1,5 @@
 # Counter
-Counter in Python
+Counter in Python with GUI.
 # Introduction
 I needed to create a counter for a task, without using an external app on my phone. So I made this simple counter with three functions: increment, decrement and reset.
 
