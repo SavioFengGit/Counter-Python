@@ -1,2 +1,2 @@
-# GUI-Counter
+# Counter
 Counter in Python
